@@ -3,27 +3,26 @@
 **Duration:** 15 min
 
 ## Worked Example
-Your mission: Subtract 82 − 29 using the column method.
+Find the missing number: 4 × ? = 36
 
-82
-− 29
-——
-53
+The answer is 9 because 4 × 9 = 36
 
 ## Guided Practice
-1. 75 − 42 = ____
-2. 63 − 27 = ____
-3. 94 − 58 = ____
-4. 70 − 39 = ____
-5. 81 − 44 = ____
+1. 3 × ? = 27
+2. ? × 6 = 42
+3. 5 × ? = 30
+4. 11 × ? = 99
+5. ? × 8 = 64
 
 ## Challenge
-6. 145 − 67 = ____
-7. 302 − 189 = ____
-8. Describe how regrouping helps when subtracting 302 − 189.
+6. 14 × ? = 70
+7. ? × 12 = 84
+8. Explain how a division problem can turn into a missing-factor puzzle.
 
 ## Stretch / Colab
-In `tower_blocks.ipynb`, try subtracting blocks instead of adding.
+Use `tower_blocks.ipynb` to show one of your puzzles with code.
+
+**Paper fallback:** On the back, create a new puzzle for a friend.
 
 ## Exit Ticket
-Make your own subtraction problem and solve it.
+Write one thing you found tricky today.

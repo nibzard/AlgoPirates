@@ -3,24 +3,26 @@
 **Duration:** 15 min
 
 ## Worked Example
-Your mission: Compare 458 and 465 using >, <, or =.
+Round 4,382 to the nearest hundred.
 
-458 < 465
+4,382 ≈ 4,400
 
 ## Guided Practice
-1. 372 ___ 368
-2. 401 ___ 410
-3. 299 ___ 300
-4. 512 ___ 498
-5. 620 ___ 620
+1. Round 3,149 to the nearest ten
+2. Round 8,760 to the nearest hundred
+3. Round 65,499 to the nearest thousand
+4. Round 2,499 to the nearest hundred
+5. Round 15,160 to the nearest thousand
 
 ## Challenge
-6. 2,456 ___ 2,465
-7. 3,210 ___ 3,201
-8. Describe a strategy for comparing numbers with different digit lengths.
+6. Round 248,921 to the nearest thousand
+7. Round 2,345,600 to the nearest ten thousand
+8. Describe a method for rounding numbers over a million.
 
 ## Stretch / Colab
-Check out `tower_blocks.ipynb` and print the tallest tower height.
+Change one of your numbers in `tower_blocks.ipynb` to see how rounding affects the height.
+
+**Paper fallback:** On the back, write three estimation strategies you used this week.
 
 ## Exit Ticket
-Write two three-digit numbers and compare them.
+Write one thing you found tricky today.
