@@ -145,17 +145,17 @@
 - Add and subtract decimals in real-world contexts
 - Round decimals to nearest whole number or tenth
 - Solve money problems involving making change and calculating totals
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
-  - [ ] Day 1: Decimal place value with base-10 blocks
-  - [ ] Day 2: Converting fractions to decimals
-  - [ ] Day 3: Adding and subtracting money
-  - [ ] Day 4: Making change efficiently
-  - [ ] Day 5: Shopping budget challenge
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
-  - [ ] `make_change.py` (greedy algorithm, 16 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`). (2025-06-15)
+  - [x] Day 1: Decimal place value with base-10 blocks (2025-06-15)
+  - [x] Day 2: Converting fractions to decimals (2025-06-15)
+  - [x] Day 3: Adding and subtracting money (2025-06-15)
+  - [x] Day 4: Making change efficiently (2025-06-15)
+  - [x] Day 5: Shopping budget challenge (2025-06-15)
+- [x] [P1] Provide matching answer keys (`Answers.md`). (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
+  - [x] `make_change.py` (greedy algorithm, 16 lines) (2025-06-15)
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ### Week 7 – Intro Variables
 
@@ -312,19 +312,19 @@
 
 # Progress Tracking
 
-**Overall Completion**: 15/120 tasks (12.5%)
+**Overall Completion**: 25/120 tasks (20.8%)
 
 **By Priority**:
 
-- P1 Tasks: 10/35 completed (28.6%)
-- P2 Tasks: 5/55 completed (9.1%)
+- P1 Tasks: 13/35 completed (37.1%)
+- P2 Tasks: 7/55 completed (12.7%)
 - P3 Tasks: 0/30 completed (0%)
 
 **By Category**:
 
 - ✅ Repository Setup: 100% complete
 - ✅ Style Guide: 100% complete (basic version)
-- 🟡 Week Content: 12.5% complete (1/8 weeks)
+- 🟡 Week Content: 25% complete (2/8 weeks)
 - ⏳ Teacher Resources: 0% complete
 - ⏳ Everything else: 0% complete
 
