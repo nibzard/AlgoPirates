@@ -187,17 +187,17 @@
 - Break complex problems into smaller steps
 - Develop strategic thinking through mathematical games (Nim, pentominoes)
 - Reflect on and explain problem-solving approaches
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
-  - [ ] Day 1: Work backwards problems
-  - [ ] Day 2: Pentomino puzzles
-  - [ ] Day 3: Logic grid puzzles
-  - [ ] Day 4: Introduction to Nim strategy
-  - [ ] Day 5: Create your own math puzzle
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
-  - [ ] `nim_bot.py` (while loop, mod strategy, 19 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`). (2025-06-16)
+  - [x] Day 1: Work backwards problems
+  - [x] Day 2: Pentomino puzzles
+  - [x] Day 3: Logic grid puzzles
+  - [x] Day 4: Introduction to Nim strategy
+  - [x] Day 5: Create your own math puzzle
+- [x] [P1] Provide matching answer keys (`Answers.md`). (2025-06-16)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-16)
+  - [x] `nim_bot.py` (while loop, mod strategy, 19 lines)
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-16)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-16)
 
 ## 4. Teacher Resources
 
@@ -312,29 +312,29 @@
 
 # Progress Tracking
 
-**Overall Completion**: 26/120 tasks (21.7%)
+**Overall Completion**: 31/120 tasks (25.8%)
 
 **By Priority**:
 
-- P1 Tasks: 19/35 completed (54.3%)
-- P2 Tasks: 7/55 completed (12.7%)
-- P3 Tasks: 0/30 completed (0%)
+- P1 Tasks: 22/35 completed (62.9%)
+- P2 Tasks: 9/55 completed (16.4%)
+- P3 Tasks: 1/30 completed (3.3%)
 
 **By Category**:
 
 - ✅ Repository Setup: 100% complete
 - ✅ Style Guide: 100% complete (basic version)
-- 🟡 Week Content: 25% complete (2/8 weeks)
+- 🟡 Week Content: 50% complete (4/8 weeks)
 - ⏳ Teacher Resources: 0% complete
 - ⏳ Everything else: 0% complete
 
 **Next Critical Path**:
 
-1. Complete Week 2 content (Fractions)
+1. Complete remaining weeks (6-7)
 1. Develop Program Guide for teachers
 1. Create Quick Start Guide for Colab
 1. Begin quality assurance process
 
 -----
 
-*Last updated: 2025-06-16*
+*Last updated: 2025-06-17*
