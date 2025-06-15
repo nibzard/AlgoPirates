@@ -3,24 +3,26 @@
 **Duration:** 15 min
 
 ## Worked Example
-Your mission: Estimate the sum of 52 + 47 by rounding.
+Solve 23 × 4 by breaking it into tens and ones.
 
-50 + 50 = 100 (estimate)
+23 × 4 = (20 × 4) + (3 × 4) = 92
 
 ## Guided Practice
-1. Estimate 31 + 28 by rounding.
-2. Estimate 63 + 26 by rounding.
-3. Estimate 74 + 19 by rounding.
-4. Estimate 38 + 42 by rounding.
-5. Estimate 56 + 14 by rounding.
+1. 41 × 6 = _____
+2. 68 × 5 = _____
+3. 27 × 7 = _____
+4. 32 × 3 = _____
+5. 54 × 8 = _____
 
 ## Challenge
-6. Estimate 123 + 89 by rounding to the nearest ten.
-7. Estimate 175 + 248 by rounding to the nearest hundred.
-8. When might rounding give a misleading result? Explain.
+6. 123 × 4 = _____
+7. 98 × 6 = _____
+8. Explain one way to multiply 98 × 6 without a calculator.
 
 ## Stretch / Colab
-Use the `tower_blocks.ipynb` notebook to see how random numbers add up.
+Open `tower_blocks.ipynb` again and change the numbers to model multiplication.
+
+**Paper fallback:** On the back, draw an area model for one problem.
 
 ## Exit Ticket
-Write your own estimation problem.
+Write one thing you found tricky today.

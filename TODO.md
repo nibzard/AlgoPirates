@@ -61,17 +61,17 @@
 - Convert between improper fractions and mixed numbers
 - Compare fractions using visual models (strip diagrams, fraction walls)
 - Solve word problems involving fractions of quantities
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
-  - [ ] Day 1: Fraction basics with pizza/pie visuals
-  - [ ] Day 2: Equivalent fractions using fraction walls
-  - [ ] Day 3: Adding fractions with same denominators
-  - [ ] Day 4: Comparing and ordering fractions
-  - [ ] Day 5: Real-world fraction problems
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
-  - [ ] `fraction_wall.py` (for-loop coloured bars, 14 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`). (2025-06-16)
+  - [x] Day 1: Fraction basics with pizza/pie visuals (2025-06-16)
+  - [x] Day 2: Equivalent fractions using fraction walls (2025-06-16)
+  - [x] Day 3: Adding fractions with same denominators (2025-06-16)
+  - [x] Day 4: Comparing and ordering fractions (2025-06-16)
+  - [x] Day 5: Real-world fraction problems (2025-06-16)
+- [x] [P1] Provide matching answer keys (`Answers.md`). (2025-06-16)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-16)
+  - [x] `fraction_wall.py` (for-loop coloured bars, 14 lines) (2025-06-16)
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-16)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-16)
 
 ### Week 3 – Patterns
 
@@ -103,17 +103,17 @@
 - Calculate area of rectangles and right triangles
 - Understand and apply units of measurement (m², cm², dm²)
 - Recognize and describe angles (acute, right, obtuse)
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
-  - [ ] Day 1: Shape classification and properties
-  - [ ] Day 2: Perimeter calculations with real objects
-  - [ ] Day 3: Area of rectangles and squares
-  - [ ] Day 4: Introduction to triangular areas
-  - [ ] Day 5: Design a flag project (area + perimeter)
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
-  - [ ] `pixel_flag.ipynb` (Turtle grid draw, 15 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`). (2025-06-15)
+  - [x] Day 1: Shape classification and properties (2025-06-15)
+  - [x] Day 2: Perimeter calculations with real objects (2025-06-15)
+  - [x] Day 3: Area of rectangles and squares (2025-06-15)
+  - [x] Day 4: Introduction to triangular areas (2025-06-15)
+  - [x] Day 5: Design a flag project (area + perimeter) (2025-06-15)
+- [x] [P1] Provide matching answer keys (`Answers.md`). (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
+  - [x] `pixel_flag.ipynb` (Turtle grid draw, 15 lines) (2025-06-15)
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ### Week 5 – Data & Chance
 
@@ -124,17 +124,17 @@
 - Understand basic probability concepts (certain, likely, unlikely, impossible)
 - Collect, organize, and analyze data from surveys
 - Make predictions based on data patterns
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
-  - [ ] Day 1: Reading and creating data tables
-  - [ ] Day 2: Bar graphs and pictographs
-  - [ ] Day 3: Finding the mean (average)
-  - [ ] Day 4: Introduction to probability
-  - [ ] Day 5: Conduct a class survey project
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
-  - [ ] `coin_flips.ipynb` (random, matplotlib, 17 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`). (2025-06-15)
+  - [x] Day 1: Reading and creating data tables
+  - [x] Day 2: Bar graphs and pictographs
+  - [x] Day 3: Finding the mean (average)
+  - [x] Day 4: Introduction to probability
+  - [x] Day 5: Conduct a class survey project
+- [x] [P1] Provide matching answer keys (`Answers.md`). (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
+  - [x] `coin_flips.ipynb` (random, matplotlib, 17 lines)
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ### Week 6 – Decimals & Money
 
@@ -244,9 +244,9 @@
 - [ ] [P2] Set up linting for notebooks and scripts.
   - [ ] Configure flake8 for Python style
   - [ ] Add notebook-specific linting rules
-- [ ] [P3] Add build scripts for converting source files to PDFs.
-  - [ ] Markdown to PDF conversion pipeline
-  - [ ] Batch processing for all worksheets
+- [x] [P3] Add build scripts for converting source files to PDFs. (2025-06-17)
+  - [x] Markdown to PDF conversion pipeline (2025-06-17)
+  - [x] Batch processing for all worksheets (2025-06-17)
 - [ ] [P2] Configure GitHub Actions to run notebook execution tests.
   - [ ] Test all notebooks run without errors
   - [ ] Verify output matches expected results
@@ -312,11 +312,11 @@
 
 # Progress Tracking
 
-**Overall Completion**: 20/120 tasks (16.7%)
+**Overall Completion**: 26/120 tasks (21.7%)
 
 **By Priority**:
 
-- P1 Tasks: 13/35 completed (37.1%)
+- P1 Tasks: 19/35 completed (54.3%)
 - P2 Tasks: 7/55 completed (12.7%)
 - P3 Tasks: 0/30 completed (0%)
 

@@ -1,0 +1,25 @@
+name: Build PDFs
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'weeks/**/*.md'
+      - '.github/workflows/build_pdfs.yml'
+      - 'scripts/build_pdfs.sh'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+      - name: Build PDFs
+        run: bash scripts/build_pdfs.sh
+      - name: Upload PDFs
+        uses: actions/upload-artifact@v3
+        with:
+          name: worksheets-pdf
+          path: weeks/**/*.pdf

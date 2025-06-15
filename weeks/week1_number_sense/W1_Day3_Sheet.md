@@ -3,24 +3,26 @@
 **Duration:** 15 min
 
 ## Worked Example
-Your mission: Multiply 6 × 4 using repeated addition.
+Divide 58 by 4 using short division.
 
-6 × 4 = 6 + 6 + 6 + 6 = 24
+58 ÷ 4 = 14 r2
 
 ## Guided Practice
-1. 5 × 3 = ____
-2. 7 × 2 = ____
-3. 8 × 4 = ____
-4. 9 × 3 = ____
-5. 6 × 5 = ____
+1. 75 ÷ 6 = _____
+2. 99 ÷ 8 = _____
+3. 132 ÷ 5 = _____
+4. 120 ÷ 9 = _____
+5. 44 ÷ 3 = _____
 
 ## Challenge
-6. 12 × 3 = ____
-7. 7 × 8 = ____
-8. Explain how you could check your answer to 7 × 8 using addition.
+6. 321 ÷ 5 = _____
+7. 86 ÷ 7 = _____
+8. Explain how to check a division result using multiplication.
 
 ## Stretch / Colab
-Open `tower_blocks.ipynb` and modify the block sizes to practice multiplication.
+Run `tower_blocks.ipynb` and modify the loop to count down instead.
+
+**Paper fallback:** On the back, write the steps of your division algorithm.
 
 ## Exit Ticket
-Create a multiplication question for a classmate.
+Write one thing you found tricky today.

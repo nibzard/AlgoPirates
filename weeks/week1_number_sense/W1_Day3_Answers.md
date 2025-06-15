@@ -1,10 +1,12 @@
 # Week 1 Day 3 – Answer Key
 
-1. 5 × 3 = **15**
-2. 7 × 2 = **14**
-3. 8 × 4 = **32**
-4. 9 × 3 = **27**
-5. 6 × 5 = **30**
-6. 12 × 3 = **36**
-7. 7 × 8 = **56**
-8. Add eight 7s or seven 8s to verify the product.
+1. 75 ÷ 6 = 12 r3
+2. 99 ÷ 8 = 12 r3
+3. 132 ÷ 5 = 26 r2
+4. 120 ÷ 9 = 13 r3
+5. 44 ÷ 3 = 14 r2
+6. 321 ÷ 5 = 64 r1
+7. 86 ÷ 7 = 12 r2
+8. Multiply the quotient by the divisor and add the remainder to check.
+
+**Fix-it tip:** Check by multiplying divisor × quotient and adding the remainder.
