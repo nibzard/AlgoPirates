@@ -124,17 +124,17 @@
 - Understand basic probability concepts (certain, likely, unlikely, impossible)
 - Collect, organize, and analyze data from surveys
 - Make predictions based on data patterns
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
-  - [ ] Day 1: Reading and creating data tables
-  - [ ] Day 2: Bar graphs and pictographs
-  - [ ] Day 3: Finding the mean (average)
-  - [ ] Day 4: Introduction to probability
-  - [ ] Day 5: Conduct a class survey project
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
-  - [ ] `coin_flips.ipynb` (random, matplotlib, 17 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`). (2025-06-15)
+  - [x] Day 1: Reading and creating data tables
+  - [x] Day 2: Bar graphs and pictographs
+  - [x] Day 3: Finding the mean (average)
+  - [x] Day 4: Introduction to probability
+  - [x] Day 5: Conduct a class survey project
+- [x] [P1] Provide matching answer keys (`Answers.md`). (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
+  - [x] `coin_flips.ipynb` (random, matplotlib, 17 lines)
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ### Week 6 – Decimals & Money
 
