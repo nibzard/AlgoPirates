@@ -8,29 +8,29 @@
 
 **Metoda "brojanja prema gore" za davanje kusura**
 
-Kupac kupuje stavku za 52,50 kn, plaća s 70,00 kn
+Kupac kupuje stavku za 6,98 €, plaća s 10,00 €
 
-**Korak 1:** Počni s troškovima: 52,50 kn
-**Korak 2:** Brojite prema gore do sljedeće kune koristeći kovanice:
-- Dodaj 50 lipa: 52,50 kn → 53,00 kn
+**Korak 1:** Počni s troškovima: 6,98 €
+**Korak 2:** Brojite prema gore do sljedećeg eura koristeći kovanice:
+- Dodaj 2 centa: 6,98 € → 7,00 €
 
 **Korak 3:** Brojite prema gore do iznosa plaćanja koristeći novčanice:
-- Dodaj 17,00 kn: 53,00 kn → 70,00 kn
+- Dodaj 3,00 €: 7,00 € → 10,00 €
 
-**Ukupni kusur:** 50 lipa + 17,00 kn = **17,50 kn**
+**Ukupni kusur:** 2 centa + 3,00 € = **3,02 €**
 
 ---
 
 ## 📝 Vježba s vodstvom
 
-**1. Napravi kusur za:** Stavka košta 29,80 kn, kupac plaća 35,00 kn
-   Potreban kusur: _____ kn
+**1. Napravi kusur za:** Stavka košta 3,97 €, kupac plaća 5,00 €
+   Potreban kusur: _____ €
    Kovanice/novčanice za davanje: _______________
 
-**2. Metoda brojanja prema gore:** Stavka košta 91,25 kn, kupac plaća 140,00 kn
-   Broji od 91,25 kn do 140,00 kn: _______________
+**2. Metoda brojanja prema gore:** Stavka košta 12,16 €, kupac plaća 20,00 €
+   Broji od 12,16 € do 20,00 €: _______________
 
-**3. Učinkovit kusur:** Koliko je najmanje kovanica/novčanica za 24,30 kn kusura?
+**3. Učinkovit kusur:** Koliko je najmanje kovanica/novčanica za 3,24 € kusura?
    _______________
 
 ---
@@ -39,7 +39,7 @@ Kupac kupuje stavku za 52,50 kn, plaća s 70,00 kn
 
 **Tvoja misija:** Otvori današnji notebook i vježbaj "pohlepni algoritam" za davanje kusura.
 
-**Papirnata alternativa:** Dizajniraj tablicu za davanje kusura koja pokazuje najučinkovitiji način davanja bilo kojeg iznosa od 0,05 kn do 35,00 kn.
+**Papirnata alternativa:** Dizajniraj tablicu za davanje kusura koja pokazuje najučinkovitiji način davanja bilo kojeg iznosa od 0,01 € do 5,00 €.
 
 ---
 

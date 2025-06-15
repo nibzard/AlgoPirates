@@ -52,3 +52,35 @@ for lang in $LANGUAGES; do
         fi
     done
 done
+
+echo "Processing teacher_resources directory"
+find teacher_resources -name "*.md" | while IFS= read -r md_file; do
+    pdf_file="${md_file%.md}.pdf"
+    echo "Converting $md_file -> $pdf_file"
+    
+    # Use Noto Sans for teacher resources (consistent with other content)
+    font="Noto Sans"
+    echo "Using font: $font"
+    
+    # Try different PDF engines in order of preference
+    if command -v lualatex >/dev/null 2>&1; then
+        echo "Using lualatex engine"
+        pandoc "$md_file" -o "$pdf_file" \
+            --pdf-engine=lualatex \
+            -V geometry:margin=0.5in \
+            -V mainfont="$font" \
+            -H scripts/unicode-fixes.tex
+    elif command -v xelatex >/dev/null 2>&1; then
+        echo "Using xelatex engine"
+        pandoc "$md_file" -o "$pdf_file" \
+            --pdf-engine=xelatex \
+            -V geometry:margin=0.5in \
+            -V mainfont="$font" \
+            -H scripts/unicode-fixes.tex
+    else
+        echo "Using pdflatex engine (basic support)"
+        pandoc "$md_file" -o "$pdf_file" \
+            --pdf-engine=pdflatex \
+            -V geometry:margin=0.5in
+    fi
+done

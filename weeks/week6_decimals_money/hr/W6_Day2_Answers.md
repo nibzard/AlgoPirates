@@ -6,7 +6,7 @@
    - 4/10 = **0.4**
    - 25/100 = **0.25**
 
-**Savjet za podučavanje:** Vodite učenike da vide obrazac: nazivnik vam govori decimalno mjesto. Kad imate /10, decimala ide na mjesto desetinki. Kad imate /100, ide na mjesto stotinki. Koristite novac: 25/100 kune je točno 25 lipa ili 0,25 kn.
+**Savjet za podučavanje:** Vodite učenike da vide obrazac: nazivnik vam govori decimalno mjesto. Kad imate /10, decimala ide na mjesto desetinki. Kad imate /100, ide na mjesto stotinki. Koristite novac: 25/100 eura je točno 25 centi ili 0,25 €.
 
 **2. Pretvori ove miješane brojeve:**
    - 1 i 6/10 = **1.6**
@@ -16,7 +16,7 @@
 
 **3. Što je veće:** 0.8 ili 0.80? **Jednaki su.** Dodavanje nula nakon zadnje znamenke ne mijenja vrijednost (0.8 = 0.80 = 8/10 = 80/100).
 
-**Savjet za podučavanje:** Ovo je ključni pojam koji učenici često pogrešno razumiju. Koristite novac: 80 lipa = 0,80 kn = 0,8 kn (iako obično ne pišemo ovako). Oba predstavljaju istu količinu. Koristite mjernih čaša: 0.8 litara = 0.80 litara.
+**Savjet za podučavanje:** Ovo je ključni pojam koji učenici često pogrešno razumiju. Koristite novac: 80 centi = 0,80 € = 0,8 € (iako obično ne pišemo ovako). Oba predstavljaju istu količinu. Koristite mjernih čaša: 0.8 litara = 0.80 litara.
 
 ## 🚀 Rješenje dodatne aktivnosti
 
@@ -30,7 +30,7 @@ Učenici trebaju stvoriti vizualne reprezentacije koje pokazuju:
 
 **Pitanje:** Pretvori 7/10 u decimalni broj i objasni svoje razmišljanje.
 
-**Uzorni odgovor:** 7/10 = 0.7 jer kad je nazivnik 10, stavljam brojnik (7) na mjesto desetinki. Mogu to provjeriti razmišljajući o novcu: 7/10 kune je 70 lipa, što je 0,70 kn ili 0,7 kn.
+**Uzorni odgovor:** 7/10 = 0.7 jer kad je nazivnik 10, stavljam brojnik (7) na mjesto desetinki. Mogu to provjeriti razmišljajući o novcu: 7/10 eura je 70 centi, što je 0,70 € ili 0,7 €.
 
 ## 🏠 Savjeti za roditelje
 
@@ -44,7 +44,7 @@ Učenici trebaju stvoriti vizualne reprezentacije koje pokazuju:
 **Pokušajte ovo:** Koristite tablicu mjesnih vrijednosti. Neka stave cijeli broj na mjesto jedinica, zatim postave razlomni dio prema njegovom nazivniku (10ke ili 100ke).
 
 **Ako učenici imaju poteškoća s:** Razumijevanjem da je 0.5 = 0.50
-**Pokušajte ovo:** Koristite modele novca. Pokažite da je 5 desetica lipa = 50 lipa = ista količina. Nacrtajte: 5 od 10 kutija osijenjeno = 50 od 100 malih kutija osijenjeno.
+**Pokušajte ovo:** Koristite modele novca. Pokažite da je 5 kovanica od 10 centi = 50 centi = ista količina. Nacrtajte: 5 od 10 kutija osijenjeno = 50 od 100 malih kutija osijenjeno.
 
 **Ako učenici imaju poteškoća s:** Pretvaranjem miješanih brojeva
 **Pokušajte ovo:** Podijelite u dva koraka: "Zadržite cijeli broj isti, zatim pretvorite samo razlomni dio." Vježbajte s konkretnim primjerima: 2 i 3/10 keksa = 2.3 keksa ukupno.

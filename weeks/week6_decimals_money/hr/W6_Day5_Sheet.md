@@ -34,8 +34,8 @@ Nova ukupna cijena: 61,20 kn + 91,80 kn + 27,00 kn = 180,00 kn ✓
    - **Ukupno: _____ kn Možeš li to priuštiti? _____**
 
 **2. Pronađi najbolju ponudu:** Koja pizza daje više vrijednosti?
-   - Mala pizza: 8 kriški za 86,40 kn = _____ kn po kriški
-   - Velika pizza: 12 kriški za 118,80 kn = _____ kn po kriški
+   - Mala pizza: 8 kriški za 11,49 € = _____ € po kriški
+   - Velika pizza: 12 kriški za 15,79 € = _____ € po kriški
 
 **3. Prilagodba proračuna:** Tvoj popis za trgovinu košta 315,50 kn, ali imaš samo 288,00 kn. Što možeš učiniti?
 

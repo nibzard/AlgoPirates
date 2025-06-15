@@ -43,7 +43,7 @@
 
 **Primjeri Odgovora:**
 - **Najlakši:** "Zbrajanje \(\tfrac{1}{5}+\tfrac{1}{5}\) bilo je najlakše jer su oba brojnika bila 1, pa sam samo zbrojio 1+1=2"
-- **Objašnjenje nazivnika:** "Nazivnik ostaje isti jer zbrajamo komade iste veličine. Kao kad imaš 2 kune i dodaš još 3 kune, još uvijek imaš kune - samo ih više"
+- **Objašnjenje nazivnika:** "Nazivnik ostaje isti jer zbrajamo komade iste veličine. Kao kad imaš 2 eura i dodaš još 3 eura, još uvijek imaš eure - samo ih više"
 - **Alternativno objašnjenje:** "Donji broj govori nam kakve veličine komade imamo. Kada zbrajamo komade iste veličine, veličina komada se ne mijenja"
 
 **Savjet za Podučavanje:** Traži razumijevanje koncepta "komadića iste veličine". Ovo je ključno za kasniji rad s različitim nazivnicima.

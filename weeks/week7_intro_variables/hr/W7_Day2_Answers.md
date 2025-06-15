@@ -42,7 +42,7 @@ b) Pola tog vremena = **m ÷ 2** (ili m/2)
 
 - **Uobičajena greška:** Djeca mogu pomiješati redoslijed u oduzimanju. "5 manje od n" je n - 5, ne 5 - n. Vježbajte s konkretnim primjerima: "5 manje od 10 jabuka je 10 - 5 = 5 jabuka."
 - **Vizualna podrška:** Koristite fizičke predmete. Ako n predstavlja igračke, pokažite "3 igračke više" dodavanjem 3 predmeta na hrpu.
-- **Veze sa stvarnim svijetom:** "Ako imaš x kuna i zarađuješ 5 više, imat ćeš x + 5 kuna." Koristite poznate kontekste poput džeparca, dobi ili igračaka.
+- **Veze sa stvarnim svijetom:** "Ako imaš x eura i zarađuješ 5 više, imat ćeš x + 5 eura." Koristite poznate kontekste poput džeparca, dobi ili igračaka.
 
 ## 🔧 Rješavanje problema
 

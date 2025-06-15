@@ -48,7 +48,7 @@ Napiši slagalicu nedostajućeg faktora gdje je odgovor 8:
 ## 🏠 Savjeti za Podučavanje Roditelja
 
 - **Vježba Obitelji Činjenica:** Stvorite trokute obitelji činjenica. Stavite 84 na vrh, 12 i 7 na donje uglove. Vježbajte: 12 × 7 = 84, 7 × 12 = 84, 84 ÷ 12 = 7, 84 ÷ 7 = 12.
-- **Nedostajući Faktori Stvarnog Svijeta:** "Ako 6 prijatelja jednako podijeli trošak pizze od 48 kn, koliko svaka osoba plati?" Ovo je 6 × ? = 48.
+- **Nedostajući Faktori Stvarnog Svijeta:** "Ako 6 prijatelja jednako podijeli trošak pizze od 6,38 €, koliko svaka osoba plati?" Ovo je 6 × ? = 6,38.
 - **Napravite Igru:** Naizmjenično stvarajte slagalice nedostajućeg faktora jedna za drugu. Počnite s lakšim činjenicama i gradite do izazovnijih.
 - **Koristite Poznate Činjenice:** Ako vaše dijete zna 8 × 7 = 56, automatski znaju još tri činjenice: 7 × 8 = 56, 56 ÷ 8 = 7, i 56 ÷ 7 = 8.
 

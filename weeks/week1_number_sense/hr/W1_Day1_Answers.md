@@ -26,8 +26,8 @@ Napiši 9,600 u proširenom obliku: **9,000** + **600** + **0** + **0**
 ## 🏠 Savjeti za Podučavanje Roditelja
 
 - **Česta Greška:** Učenici mogu zamijeniti znamenku s njezinom vrijednošću. Vježbajte govorenje "5 stotina jednako je 500" za učvršćivanje ovog koncepta.
-- **Vizualna Podrška:** Nacrtajte tablice mjesta vrijednosti ili koristite kućanske predmete (lipe za jedinice, kune za desetke, novčanice od 100 kuna za stotine).
-- **Veze sa Stvarnim Svijetom:** Koristite primjere s novcem - "Koliko novčanica od 100 kuna treba vam da napravite 500 kuna?"
+- **Vizualna Podrška:** Nacrtajte tablice mjesta vrijednosti ili koristite kućanske predmete (centi za jedinice, kovanice od 10 centi za desetke, novčanice od 100 eura za stotine).
+- **Veze sa Stvarnim Svijetom:** Koristite primjere s novcem - "Koliko novčanica od 100 eura treba vam da napravite 500 eura?"
 
 ## 🔧 Rješavanje Problema
 

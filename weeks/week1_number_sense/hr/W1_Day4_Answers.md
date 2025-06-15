@@ -44,9 +44,9 @@
 
 ## 🏠 Savjeti za Podučavanje Roditelja
 
-- **Primjene Stvarnog Svijeta:** Koristite zaokruživanje svugdje! "Račun u trgovini bio je 47,83 kn - to je oko 48 kn." "Treba 23 minute do škole - otprilike 25 minuta."
+- **Primjene Stvarnog Svijeta:** Koristite zaokruživanje svugdje! "Račun u trgovini bio je 6,36 € - to je oko 6,40 €." "Treba 23 minute do škole - otprilike 25 minuta."
 - **Procjena Prije Izračuna:** Prije rješavanja 298 + 156, procijeni: "oko 300 + 150 = 450." Zatim provjeri ima li točan odgovor (454) smisla.
-- **Veze s Novcem:** Zaokruživanje na najbliži kun vrlo je praktično. 3,79 kn + 6,21 kn ≈ 4 kn + 6 kn = 10 kn.
+- **Veze s Novcem:** Zaokruživanje na najbliži euro vrlo je praktično. 3,79 € + 6,21 € ≈ 4 € + 6 € = 10 €.
 - **Vijesti i Podaci:** Kada čitate o stanovništvu, udaljenostima ili velikim brojevima u vijestima, razgovarajte o tome što bi mogle biti zaokružene verzije.
 
 ## 🔧 Rješavanje Problema

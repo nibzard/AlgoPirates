@@ -40,7 +40,7 @@
 
 • **Vizualna podrška:** Koristite analogiju klackalice ili vage za ravnotežu. Ako jedna strana postane teža (dodamo nešto), druga strana mora postati jednako teža da ostane uravnotežena. Nacrtajte ovaj koncept ili koristite stvarne kućanske predmete na kuhinjskoj vagi.
 
-• **Veze sa stvarnim svijetom:** Povežite s vsakodnevnim scenarijima: "Ako imaš neki novac, potrošiš 56 kn, i ostane ti 84 kn, koliko si imao na početku?" To pomaže učenicima vidjeti da algebra rješava praktične probleme s kojima se susreću.
+• **Veze sa stvarnim svijetom:** Povežite s vsakodnevnim scenarijima: "Ako imaš neki novac, potrošiš 7,45 €, i ostane ti 11,17 €, koliko si imao na početku?" To pomaže učenicima vidjeti da algebra rješava praktične probleme s kojima se susreću.
 
 ## 🔧 Rješavanje problema
 

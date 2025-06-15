@@ -40,7 +40,7 @@
 ## 🏠 Savjeti za Podučavanje Roditelja
 
 - **Potičite Različite Strategije:** Ako vaše dijete preferira (90 + 8) × 6 umjesto (100 - 2) × 6, to je savršeno u redu! Različiti pristupi rade za različite ljude.
-- **Povežite sa Stvarnim Životom:** "Ako kino karte koštaju 12 kuna svaka, koliko bi koštalo 23 karte?" Rastavite 23 na 20 + 3, zatim izračunajte (20 × 12 kn) + (3 × 12 kn).
+- **Povežite sa Stvarnim Životom:** "Ako kino karte koštaju 1,60 € svaka, koliko bi koštalo 23 karte?" Rastavite 23 na 20 + 3, zatim izračunajte (20 × 1,60 €) + (3 × 1,60 €).
 - **Vizualne Modele:** Nacrtajte nizove ili modele površine. Za 23 × 4, nacrtajte pravokutnik i podijelite ga na dio 20 × 4 i dio 3 × 4.
 
 ## 🔧 Rješavanje Problema

@@ -4,12 +4,12 @@
 
 **1. Ispuni praznine:** Broj 35.94 ima **3** na mjestu desetica, **9** na mjestu desetinki, i **4** na mjestu stotinki.
 
-**Savjet za podučavanje:** Neka učenici pokažu na svaku znamenku dok imenuju njezinu mjesnu vrijednost. Koristite tablicu mjesnih vrijednosti za pojačavanje da pozicija određuje vrijednost. Vježbajte s novcem: "35.94 znači 35 kuna i 94 lipe."
+**Savjet za podučavanje:** Neka učenici pokažu na svaku znamenku dok imenuju njezinu mjesnu vrijednost. Koristite tablicu mjesnih vrijednosti za pojačavanje da pozicija određuje vrijednost. Vježbajte s novcem: "4.78 znači 4 eura i 78 centi."
 
 **2. Napiši u proširenoj formi:** 18.52 = **10** + **8** + **0.5** + **0.02**
    (Alternativa: 18.52 = 10 + 8 + 5/10 + 2/100)
 
-**Savjet za podučavanje:** Pokažite i decimalne i razlomne oblike za jačanje razumijevanja. Povežite s novcem: 18.52 = 18 kuna + 50 lipa + 2 lipe. Učenici često mijenjaju 0.5 s 5, pa naglašavajte "pet desetinki" a ne "pet."
+**Savjet za podučavanje:** Pokažite i decimalne i razlomne oblike za jačanje razumijevanja. Povežite s novcem: 2.46 = 2 eura + 40 centi + 6 centi. Učenici često mijenjaju 0.5 s 5, pa naglašavajte "pet desetinki" a ne "pet."
 
 **3. Stvori decimalni broj:** 7 jedinica + 3 desetinke + 8 stotinki = **7.38**
 
@@ -22,7 +22,7 @@ Učenici trebaju nacrtati ili vizualizirati:
 - 0.78: 78 malih kvadrata od 100 
 - 2.06: 2 cijela kvadrata + 6 malih kvadrata od 100
 
-**Savjet za podučavanje:** Ako učenici nemaju mrežasti papir, mogu koristiti reprezentacije novca: 1.35 = 1 kuna + 3 desetice lipa + 5 lipa.
+**Savjet za podučavanje:** Ako učenici nemaju mrežasti papir, mogu koristiti reprezentacije novca: 1.35 = 1 euro + 3 kovanice od 10 centi + 5 centi.
 
 ## 🎯 Rješenje izlaznog kartona
 
@@ -32,9 +32,9 @@ Učenici trebaju nacrtati ili vizualizirati:
 
 ## 🏠 Savjeti za roditelje
 
-- **Uobičajena greška:** Učenici mogu misliti da je 0.5 veće od 0.50 jer je "50 veće od 5." Objasnite da su ovi jednaki koristeći novac: 50 lipa = 5 desetica lipa.
+- **Uobičajena greška:** Učenici mogu misliti da je 0.5 veće od 0.50 jer je "50 veće od 5." Objasnite da su ovi jednaki koristeći novac: 50 centi = 5 kovanica od 10 centi.
 - **Vizualna podrška:** Koristite mrežu od sto kvadrata ili base-10 blokove. Obojite kvadrate da pokažete decimalne vrijednosti - to čini apstraktne pojmove konkretnima.
-- **Veze sa stvarnim svijetom:** Vježbajte s računima iz trgovine - pokažite na cijene poput 12,67 kn i rastavite mjesne vrijednosti.
+- **Veze sa stvarnim svijetom:** Vježbajte s računima iz trgovine - pokažite na cijene poput 1,68 € i rastavite mjesne vrijednosti.
 
 ## 🔧 Rješavanje problema
 
@@ -42,7 +42,7 @@ Učenici trebaju nacrtati ili vizualizirati:
 **Pokušajte ovo:** Prvo povežite s razlomcima - 0.3 znači "3 od 10 dijelova" ili 3/10. Koristite kružne dijagrame podijeljene na 10 i 100 dijelova.
 
 **Ako učenici imaju poteškoća s:** Uspoređivanjem decimalnih vrijednosti
-**Pokušajte ovo:** Poravnajte decimalne točke okomito i usporedite stupac po stupac, počevši slijeva. Koristite primjere novca: 2,30 kn naspram 2,03 kn.
+**Pokušajte ovo:** Poravnajte decimalne točke okomito i usporedite stupac po stupac, počevši slijeva. Koristite primjere novca: 2,30 € naspram 2,03 €.
 
 **Ako učenici imaju poteškoća s:** Razumijevanjem zašto je 0.5 = 0.50
 **Pokušajte ovo:** Koristite mjernih čaša - pola čaše je isto bilo da to zovete 5/10 ili 50/100. Pokažite fizičkim modelima da dodavanje nula nakon decimale ne mijenja vrijednost.

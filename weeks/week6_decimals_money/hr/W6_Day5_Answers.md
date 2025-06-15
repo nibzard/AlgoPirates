@@ -11,8 +11,8 @@
 **Savjet za podučavanje:** Pokažite učenicima da zbrajaju tijekom kupovine da prate trošenje. Modeliraj: "Ruksak 135,00 kn + bilježnice 46,80 kn = 181,80 kn. Imam 38,20 kn preostalo. Mogu li priuštiti olovke od 30,60 kn? Da! Konačno ukupno: 212,40 kn, ostaje 7,60 kn." Naglasite ostajanje ispod proračuna.
 
 **2. Pronađi najbolju ponudu:** Koja pizza daje više vrijednosti?
-   - Mala pizza: 8 kriški za 86,40 kn = **10,80 kn** po kriški
-   - Velika pizza: 12 kriški za 118,80 kn = **9,90 kn** po kriški
+   - Mala pizza: 8 kriški za 11,49 € = **1,44 €** po kriški
+   - Velika pizza: 12 kriški za 15,79 € = **1,32 €** po kriški
    - **Velika pizza je bolja ponuda**
 
 **Savjet za podučavanje:** Naučite računanje jedinične cijene: "Podijeli ukupnu cijenu s brojem kriški." 86,40 kn ÷ 8 = 10,80 kn po kriški. 118,80 kn ÷ 12 = 9,90 kn po kriški. Niža cijena po jedinici = bolja ponuda. Ova vještina se primjenjuje na sve usporedbe kupovina.
