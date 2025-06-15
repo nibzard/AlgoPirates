@@ -19,7 +19,7 @@ jobs:
       - name: Build PDFs
         run: bash scripts/build_pdfs.sh
       - name: Upload PDFs
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: worksheets-pdf
           path: weeks/**/*.pdf

@@ -1,0 +1,61 @@
+\usepackage{newunicodechar}
+\usepackage{fontspec}
+
+% Set up emoji font support for LuaTeX
+\directlua{luaotfload.add_fallback("emojifallback", {"Apple Color Emoji:mode=harf;", "Noto Color Emoji:mode=harf;", "Segoe UI Emoji:mode=harf;"})}
+
+% Set up emoji command with explicit font switching
+\newfontfamily\emojifont{Apple Color Emoji}[Renderer=HarfBuzz]
+\newcommand{\emoji}[1]{{\emojifont #1}}
+
+% Unicode character mappings - preserve emojis where possible
+\newunicodechar{⏱}{\emoji{⏱}}
+\newunicodechar{🔍}{\emoji{🔍}}
+\newunicodechar{📝}{\emoji{📝}}
+\newunicodechar{🚀}{\emoji{🚀}}
+\newunicodechar{🎯}{\emoji{🎯}}
+\newunicodechar{🏠}{\emoji{🏠}}
+\newunicodechar{🔧}{\emoji{🔧}}
+\newunicodechar{😊}{\emoji{😊}}
+\newunicodechar{💡}{\emoji{💡}}
+\newunicodechar{⚖}{\emoji{⚖}}
+\newunicodechar{📚}{\emoji{📚}}
+\newunicodechar{🏆}{\emoji{🏆}}
+\newunicodechar{📅}{\emoji{📅}}
+\newunicodechar{🔢}{\emoji{🔢}}
+\newunicodechar{🍕}{\emoji{🍕}}
+\newunicodechar{🔄}{\emoji{🔄}}
+\newunicodechar{📐}{\emoji{📐}}
+\newunicodechar{📊}{\emoji{📊}}
+\newunicodechar{💰}{\emoji{💰}}
+\newunicodechar{🔤}{\emoji{🔤}}
+\newunicodechar{🧩}{\emoji{🧩}}
+\newunicodechar{🎓}{\emoji{🎓}}
+\newunicodechar{💻}{\emoji{💻}}
+\newunicodechar{👨}{\emoji{👨}}
+\newunicodechar{👩}{\emoji{👩}}
+\newunicodechar{👧}{\emoji{👧}}
+\newunicodechar{👦}{\emoji{👦}}
+\newunicodechar{📋}{\emoji{📋}}
+\newunicodechar{📖}{\emoji{📖}}
+\newunicodechar{🏅}{\emoji{🏅}}
+\newunicodechar{📞}{\emoji{📞}}
+\newunicodechar{🏴}{\emoji{🏴}}
+\newunicodechar{☠}{\emoji{☠}}
+\newunicodechar{→}{\ensuremath{\rightarrow}}
+\newunicodechar{↔}{\ensuremath{\leftrightarrow}}
+\newunicodechar{✓}{\ensuremath{\checkmark}}
+\newunicodechar{□}{\ensuremath{\square}}
+\newunicodechar{☐}{\ensuremath{\square}}
+\newunicodechar{△}{\ensuremath{\triangle}}
+\newunicodechar{○}{\ensuremath{\circ}}
+\newunicodechar{★}{\ensuremath{\star}}
+\newunicodechar{■}{\ensuremath{\blacksquare}}
+\newunicodechar{≈}{\ensuremath{\approx}}
+\newunicodechar{≥}{\ensuremath{\geq}}
+\newunicodechar{≤}{\ensuremath{\leq}}
+
+% Fix math mode for fractions in text
+\usepackage{amsmath}
+\let\oldtfrac\tfrac
+\renewcommand{\tfrac}[2]{\ensuremath{\oldtfrac{#1}{#2}}}

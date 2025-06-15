@@ -1,0 +1,53 @@
+\documentclass[11pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{fontspec}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{newunicodechar}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{calc}
+\usepackage{etoolbox}
+\usepackage{footnotehyper}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{ifthen}
+\usepackage{calc}
+\usepackage{eso-pic}
+\usepackage{etoolbox}
+
+% Set main font
+\setmainfont{Helvetica Neue}
+
+% Replace Unicode symbols with text/LaTeX equivalents
+\newunicodechar{⏱}{[15 min]}
+\newunicodechar{🔍}{[SEARCH]}
+\newunicodechar{📝}{[NOTES]}
+\newunicodechar{🚀}{[ROCKET]}
+\newunicodechar{🎯}{[TARGET]}
+\newunicodechar{🏠}{[HOME]}
+\newunicodechar{🔧}{[TOOLS]}
+\newunicodechar{😊}{:)}
+\newunicodechar{✓}{\ensuremath{\checkmark}}
+\newunicodechar{□}{\ensuremath{\square}}
+\newunicodechar{≈}{\ensuremath{\approx}}
+\newunicodechar{≥}{\ensuremath{\geq}}
+
+\begin{document}
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+$if(title)$
+\maketitle
+$endif$
+
+$body$
+\end{document}
