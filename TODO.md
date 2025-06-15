@@ -404,4 +404,47 @@
 
 -----
 
+## Suggestions for Improvement
+
+### 1. Content & Pedagogy
+
+- [ ] [P2] **Consistency of "Enhanced Format":**
+  - [ ] Clarify and ensure all materials (worksheets, answer keys, Python intros) consistently meet "enhanced" standard across all 8 weeks and both languages
+  - [ ] Prioritize "Worksheet Format Standardization" to improve user experience
+- [ ] [P2] **Differentiation:**
+  - [ ] Add explicit support for diverse learners within main worksheets or answer keys (e.g., "Simpler approach:" or "Extra challenge:")
+  - [ ] Complete "Additional Practice" and "Extension Activities" as P2 tasks
+- [ ] [P1] **Assessment:**
+  - [ ] Complete `Master_Quiz_PreTest.pdf` and `PostTest.pdf` mentioned in `teacher_resources/` and `specs.md`
+  - [ ] Develop "Debug-me" Python tasks (Week 4 & 8) for assessing Python understanding
+- [ ] [P2] **Mathematical Habits of Mind:** Ensure these are explicitly stated and briefly explained on each worksheet as intended in `specs.md` and `Program_Guide.md`
+- [ ] [P2] **Exit Ticket Prompts:** Vary exit ticket prompts to gather different types of feedback (e.g., "What was most confusing today?", "How can you use what you learned today?", "What are you still curious about?")
+
+### 2. Python & Colab
+
+- [ ] [P1] **Colab `### TODO ###` Sections:**
+  - [ ] Review all Colab notebooks to ensure `### TODO ###` sections are designed for student completion, not showing solutions
+  - [ ] Provide clear, scaffolded blanks or partial code for students to fill in
+  - [ ] Create separate student versions if current notebooks are teacher versions
+- [ ] [P2] **Python Intro Linkage:**
+  - [ ] Explicitly reference relevant `W#_Python_Intro.md` sheet in Colab notebooks or on paper worksheet for Colab activity day
+- [ ] [P2] **Colab Interactivity within Constraints:**
+  - [ ] Explore simple uses of `input()` in more Colab tasks (within 20-line limit) to increase engagement
+- [ ] [P2] **`CLAUDE.md` Accuracy:** Update "Key Design Principles" point 4 (libraries) to be fully consistent with `specs.md` regarding standard library module usage
+
+### 3. Structure & Documentation
+
+- [ ] [P1] **LICENSE Conflict:** **CRITICAL** - Resolve Apache 2.0 vs CC BY 4.0 license conflict between `LICENSE` file and `README.md`. For educational materials, CC BY 4.0 is generally more appropriate
+- [ ] [P2] **`README.md` Badges/Status:**
+  - [ ] Update "Weeks Available" badge and curriculum table to accurately reflect current quality status
+  - [ ] Ensure consistency with `TODO.md` status
+  - [ ] Consider adding "Target Audience" badge (e.g., Ages 9-11, Rising 5th Graders)
+- [ ] [P2] **`colab_tasks/README.md` & `style_guide/README.md`:** Populate these placeholder files with relevant information or links
+- [ ] [P3] **`AGENTS.md`:** Expand with more specific advice for AI, perhaps referencing `CLAUDE.md` as example
+- [ ] [P1] **Teacher Resources:**
+  - [ ] Complete `Progress_Tracker.pdf` and assessment materials in `teacher_resources/`
+  - [ ] Create "Google Colab Quick Start" for parents/teachers
+
+-----
+
 *Last updated: 2025-06-15 (Croatian Translation completed - ALL 88 files translated)*
