@@ -244,9 +244,9 @@
 - [ ] [P2] Set up linting for notebooks and scripts.
   - [ ] Configure flake8 for Python style
   - [ ] Add notebook-specific linting rules
-- [ ] [P3] Add build scripts for converting source files to PDFs.
-  - [ ] Markdown to PDF conversion pipeline
-  - [ ] Batch processing for all worksheets
+- [x] [P3] Add build scripts for converting source files to PDFs. (2025-06-17)
+  - [x] Markdown to PDF conversion pipeline (2025-06-17)
+  - [x] Batch processing for all worksheets (2025-06-17)
 - [ ] [P2] Configure GitHub Actions to run notebook execution tests.
   - [ ] Test all notebooks run without errors
   - [ ] Verify output matches expected results
