@@ -103,17 +103,17 @@
 - Calculate area of rectangles and right triangles
 - Understand and apply units of measurement (m², cm², dm²)
 - Recognize and describe angles (acute, right, obtuse)
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
-  - [ ] Day 1: Shape classification and properties
-  - [ ] Day 2: Perimeter calculations with real objects
-  - [ ] Day 3: Area of rectangles and squares
-  - [ ] Day 4: Introduction to triangular areas
-  - [ ] Day 5: Design a flag project (area + perimeter)
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
-  - [ ] `pixel_flag.ipynb` (Turtle grid draw, 15 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`). (2025-06-15)
+  - [x] Day 1: Shape classification and properties (2025-06-15)
+  - [x] Day 2: Perimeter calculations with real objects (2025-06-15)
+  - [x] Day 3: Area of rectangles and squares (2025-06-15)
+  - [x] Day 4: Introduction to triangular areas (2025-06-15)
+  - [x] Day 5: Design a flag project (area + perimeter) (2025-06-15)
+- [x] [P1] Provide matching answer keys (`Answers.md`). (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
+  - [x] `pixel_flag.ipynb` (Turtle grid draw, 15 lines) (2025-06-15)
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ### Week 5 – Data & Chance
 
