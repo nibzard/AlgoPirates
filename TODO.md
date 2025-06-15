@@ -61,17 +61,17 @@
 - Convert between improper fractions and mixed numbers
 - Compare fractions using visual models (strip diagrams, fraction walls)
 - Solve word problems involving fractions of quantities
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`) (2025-06-15).
   - [ ] Day 1: Fraction basics with pizza/pie visuals
   - [ ] Day 2: Equivalent fractions using fraction walls
   - [ ] Day 3: Adding fractions with same denominators
   - [ ] Day 4: Comparing and ordering fractions
   - [ ] Day 5: Real-world fraction problems
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [x] [P1] Provide matching answer keys (`Answers.md`) (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
   - [ ] `fraction_wall.py` (for-loop coloured bars, 14 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ### Week 3 – Patterns
 
@@ -82,17 +82,17 @@
 - Describe pattern rules using mathematical language
 - Apply pattern recognition to solve problems
 - Create visual patterns with geometric shapes
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`) (2025-06-15)
   - [ ] Day 1: Number sequences and skip counting
   - [ ] Day 2: Growing patterns with shapes
   - [ ] Day 3: Pattern rules and predictions
   - [ ] Day 4: Conway’s Game of Life introduction
   - [ ] Day 5: Create your own pattern challenges
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [x] [P1] Provide matching answer keys (`Answers.md`) (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
   - [ ] `life_sim.py` (nested lists, 18 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ### Week 4 – Geometry
 
@@ -103,17 +103,17 @@
 - Calculate area of rectangles and right triangles
 - Understand and apply units of measurement (m², cm², dm²)
 - Recognize and describe angles (acute, right, obtuse)
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`) (2025-06-15)
   - [ ] Day 1: Shape classification and properties
   - [ ] Day 2: Perimeter calculations with real objects
   - [ ] Day 3: Area of rectangles and squares
   - [ ] Day 4: Introduction to triangular areas
   - [ ] Day 5: Design a flag project (area + perimeter)
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [x] [P1] Provide matching answer keys (`Answers.md`) (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
   - [ ] `pixel_flag.ipynb` (Turtle grid draw, 15 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ### Week 5 – Data & Chance
 
@@ -124,17 +124,17 @@
 - Understand basic probability concepts (certain, likely, unlikely, impossible)
 - Collect, organize, and analyze data from surveys
 - Make predictions based on data patterns
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`) (2025-06-15)
   - [ ] Day 1: Reading and creating data tables
   - [ ] Day 2: Bar graphs and pictographs
   - [ ] Day 3: Finding the mean (average)
   - [ ] Day 4: Introduction to probability
   - [ ] Day 5: Conduct a class survey project
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [x] [P1] Provide matching answer keys (`Answers.md`) (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
   - [ ] `coin_flips.ipynb` (random, matplotlib, 17 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ### Week 6 – Decimals & Money
 
@@ -145,17 +145,17 @@
 - Add and subtract decimals in real-world contexts
 - Round decimals to nearest whole number or tenth
 - Solve money problems involving making change and calculating totals
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`) (2025-06-15)
   - [ ] Day 1: Decimal place value with base-10 blocks
   - [ ] Day 2: Converting fractions to decimals
   - [ ] Day 3: Adding and subtracting money
   - [ ] Day 4: Making change efficiently
   - [ ] Day 5: Shopping budget challenge
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [x] [P1] Provide matching answer keys (`Answers.md`) (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
   - [ ] `make_change.py` (greedy algorithm, 16 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ### Week 7 – Intro Variables
 
@@ -166,17 +166,17 @@
 - Solve one-step equations using inverse operations
 - Understand the concept of equality and balance
 - Apply variables to describe geometric patterns and relationships
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
-  - [ ] Day 1: Mystery number puzzles
-  - [ ] Day 2: Writing expressions with variables
-  - [ ] Day 3: Solving simple equations
-  - [ ] Day 4: Balance scale problems
-  - [ ] Day 5: Variables in geometry (perimeter/area)
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
-  - [ ] `cube_maker.ipynb` (input -> volume, 13 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`) (2025-06-15)
+  - [x] Day 1: Mystery number puzzles (2025-06-15)
+  - [x] Day 2: Writing expressions with variables (2025-06-15)
+  - [x] Day 3: Solving simple equations (2025-06-15)
+  - [x] Day 4: Balance scale problems (2025-06-15)
+  - [x] Day 5: Variables in geometry (perimeter/area) (2025-06-15)
+- [x] [P1] Provide matching answer keys (`Answers.md`) (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
+  - [x] `cube_maker.ipynb` (2025-06-15) (input -> volume, 13 lines)
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ### Week 8 – Strategy
 
@@ -187,17 +187,17 @@
 - Break complex problems into smaller steps
 - Develop strategic thinking through mathematical games (Nim, pentominoes)
 - Reflect on and explain problem-solving approaches
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`) (2025-06-15)
   - [ ] Day 1: Work backwards problems
   - [ ] Day 2: Pentomino puzzles
   - [ ] Day 3: Logic grid puzzles
   - [ ] Day 4: Introduction to Nim strategy
   - [ ] Day 5: Create your own math puzzle
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [x] [P1] Provide matching answer keys (`Answers.md`) (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
   - [ ] `nim_bot.py` (while loop, mod strategy, 19 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-15)
 
 ## 4. Teacher Resources
 
@@ -312,19 +312,19 @@
 
 # Progress Tracking
 
-**Overall Completion**: 15/120 tasks (12.5%)
+**Overall Completion**: 22/120 tasks (18.3%)
 
 **By Priority**:
 
-- P1 Tasks: 10/35 completed (28.6%)
-- P2 Tasks: 5/55 completed (9.1%)
+- P1 Tasks: 17/35 completed (48.6%)
+- P2 Tasks: 7/55 completed (12.7%)
 - P3 Tasks: 0/30 completed (0%)
 
 **By Category**:
 
 - ✅ Repository Setup: 100% complete
 - ✅ Style Guide: 100% complete (basic version)
-- 🟡 Week Content: 12.5% complete (1/8 weeks)
+- 🟡 Week Content: 25% complete (2/8 weeks)
 - ⏳ Teacher Resources: 0% complete
 - ⏳ Everything else: 0% complete
 
