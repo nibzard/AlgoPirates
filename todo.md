@@ -14,16 +14,16 @@
 # Repository Development Plan
 
 ## 1. Repository Setup
-- [ ] [P1] Create base folder structure matching README.
-  - [ ] [P1] `weeks/` with subfolders `week1_number_sense` … `week8_strategy`.
-  - [ ] [P1] `colab_tasks/`, `teacher_resources/`, and `style_guide/` directories.
-  - [ ] [P2] Add placeholder `README.md` in each new directory.
-- [ ] [P2] Add top-level `CONTRIBUTING.md` referencing specs and style guide.
-- [ ] [P2] Configure issue and pull request templates.
+- [x] [P1] Create base folder structure matching README. (2025-06-15)
+  - [x] [P1] `weeks/` with subfolders `week1_number_sense` … `week8_strategy`. (2025-06-15)
+  - [x] [P1] `colab_tasks/`, `teacher_resources/`, and `style_guide/` directories. (2025-06-15)
+  - [x] [P2] Add placeholder `README.md` in each new directory. (2025-06-15)
+- [x] [P2] Add top-level `CONTRIBUTING.md` referencing specs and style guide. (2025-06-15)
+- [x] [P2] Configure issue and pull request templates. (2025-06-15)
 
 ## 2. Style Guide
-- [ ] [P1] Draft `style_guide/Python_Style_Guide.md` and `Naming_Conventions.md` based on specs.
-- [ ] [P2] Summarize writer guidelines from `specs.md` into `style_guide/Writer_Handbook.md`.
+- [x] [P1] Draft `style_guide/Python_Style_Guide.md` and `Naming_Conventions.md` based on specs. (2025-06-15)
+- [x] [P2] Summarize writer guidelines from `specs.md` into `style_guide/Writer_Handbook.md`. (2025-06-15)
 
 ## 3. Week Content Development
 For each week 1–8:

@@ -116,6 +116,8 @@ Check the [`style_guide/`](./style_guide/) folder and open an issue or pull requ
 - Accessibility support (large-print, screen-reader compatibility)
 - More unplugged coding activity sheets
 
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for guidelines on making a pull request.
+
 ---
 
 ## 🧩 License
