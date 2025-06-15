@@ -26,9 +26,58 @@
 - [x] [P2] Summarize writer guidelines from `specs.md` into `style_guide/Writer_Handbook.md`. (2025-06-15)
 
 ## 3. Week Content Development
-For each week 1–8:
-- [ ] [P1] Produce five printable math worksheets (`Sheet.pdf`).
-- [ ] [P1] Provide matching answer keys (`Answers.pdf`).
+### Week 1 – Number Sense
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`). (2025-06-15)
+- [x] [P1] Provide matching answer keys (`Answers.md`). (2025-06-15)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-15)
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-15)
+- [x] [P2] Write a short `README.md` explaining the week's focus. (2025-06-15)
+
+### Week 2 – Fractions
+- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [ ] [P1] Provide matching answer keys (`Answers.md`).
+- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
+- [ ] [P2] Write a short `README.md` explaining the week's focus.
+
+### Week 3 – Patterns
+- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [ ] [P1] Provide matching answer keys (`Answers.md`).
+- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
+- [ ] [P2] Write a short `README.md` explaining the week's focus.
+
+### Week 4 – Geometry
+- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [ ] [P1] Provide matching answer keys (`Answers.md`).
+- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
+- [ ] [P2] Write a short `README.md` explaining the week's focus.
+
+### Week 5 – Data & Chance
+- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [ ] [P1] Provide matching answer keys (`Answers.md`).
+- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
+- [ ] [P2] Write a short `README.md` explaining the week's focus.
+
+### Week 6 – Decimals & Money
+- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [ ] [P1] Provide matching answer keys (`Answers.md`).
+- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
+- [ ] [P2] Write a short `README.md` explaining the week's focus.
+
+### Week 7 – Intro Variables
+- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [ ] [P1] Provide matching answer keys (`Answers.md`).
+- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
+- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
+- [ ] [P2] Write a short `README.md` explaining the week's focus.
+
+### Week 8 – Strategy
+- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
+- [ ] [P1] Provide matching answer keys (`Answers.md`).
 - [ ] [P1] Create optional Colab notebook(s) with TODO comments.
 - [ ] [P2] Include paper fallback task on reverse side of each worksheet.
 - [ ] [P2] Write a short `README.md` explaining the week's focus.
