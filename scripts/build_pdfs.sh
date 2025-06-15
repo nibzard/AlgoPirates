@@ -29,10 +29,26 @@ for lang in $LANGUAGES; do
             echo "Using English font: $font"
         fi
         
-        pandoc "$md_file" -o "$pdf_file" \
-            --pdf-engine=lualatex \
-            -V geometry:margin=0.5in \
-            -V mainfont="$font" \
-            -H scripts/unicode-fixes.tex
+        # Try different PDF engines in order of preference
+        if command -v lualatex >/dev/null 2>&1; then
+            echo "Using lualatex engine"
+            pandoc "$md_file" -o "$pdf_file" \
+                --pdf-engine=lualatex \
+                -V geometry:margin=0.5in \
+                -V mainfont="$font" \
+                -H scripts/unicode-fixes.tex
+        elif command -v xelatex >/dev/null 2>&1; then
+            echo "Using xelatex engine"
+            pandoc "$md_file" -o "$pdf_file" \
+                --pdf-engine=xelatex \
+                -V geometry:margin=0.5in \
+                -V mainfont="$font" \
+                -H scripts/unicode-fixes.tex
+        else
+            echo "Using pdflatex engine (basic support)"
+            pandoc "$md_file" -o "$pdf_file" \
+                --pdf-engine=pdflatex \
+                -V geometry:margin=0.5in
+        fi
     done
 done
