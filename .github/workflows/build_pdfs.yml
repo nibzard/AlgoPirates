@@ -17,7 +17,7 @@ jobs:
       - name: Install pandoc and LaTeX
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra texlive-xetex
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra texlive-xetex texlive-luatex fonts-noto
       - name: Build PDFs
         run: bash scripts/build_pdfs.sh
       - name: Upload PDFs
