@@ -3,24 +3,26 @@
 **Duration:** 15 min
 
 ## Worked Example
-Your mission: Break down the number 37 into tens and ones.
+Break down the number 372 into hundreds, tens and ones.
 
-37 = 3 tens and 7 ones
+372 = 3 hundreds, 7 tens, 2 ones
 
 ## Guided Practice
-1. 42 = ____ tens and ____ ones
-2. 59 = ____ tens and ____ ones
-3. 64 = ____ tens and ____ ones
-4. 18 = ____ tens and ____ ones
-5. 90 = ____ tens and ____ ones
+1. 845 -> _____ hundreds, _____ tens, _____ ones
+2. 1,249 -> _____ thousands, _____ hundreds, _____ tens, _____ ones
+3. 9,600 -> _____ thousands, _____ hundreds, _____ tens, _____ ones
+4. 42 -> _____ tens, _____ ones
+5. 59 -> _____ tens, _____ ones
 
 ## Challenge
-6. 137 = ____ hundreds, ____ tens, and ____ ones
-7. 205 = ____ hundreds, ____ tens, and ____ ones
+6. 137 -> _____ hundreds, _____ tens, _____ ones
+7. 205 -> _____ hundreds, _____ tens, _____ ones
 8. Explain why 237 = 23 tens and 7 ones, not 2 tens and 37 ones.
 
 ## Stretch / Colab
-Try the `tower_blocks.ipynb` notebook to see how loops build towers. Change the loop length to experiment.
+Open `tower_blocks.ipynb` and complete lines 8–10.
+
+**Paper fallback:** On the back, describe in words how the loop builds a tower.
 
 ## Exit Ticket
-Write a two-digit number and break it into tens and ones.
+Write one thing you found tricky today.
