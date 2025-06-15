@@ -61,17 +61,17 @@
 - Convert between improper fractions and mixed numbers
 - Compare fractions using visual models (strip diagrams, fraction walls)
 - Solve word problems involving fractions of quantities
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
-  - [ ] Day 1: Fraction basics with pizza/pie visuals
-  - [ ] Day 2: Equivalent fractions using fraction walls
-  - [ ] Day 3: Adding fractions with same denominators
-  - [ ] Day 4: Comparing and ordering fractions
-  - [ ] Day 5: Real-world fraction problems
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
-  - [ ] `fraction_wall.py` (for-loop coloured bars, 14 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`). (2025-06-16)
+  - [x] Day 1: Fraction basics with pizza/pie visuals (2025-06-16)
+  - [x] Day 2: Equivalent fractions using fraction walls (2025-06-16)
+  - [x] Day 3: Adding fractions with same denominators (2025-06-16)
+  - [x] Day 4: Comparing and ordering fractions (2025-06-16)
+  - [x] Day 5: Real-world fraction problems (2025-06-16)
+- [x] [P1] Provide matching answer keys (`Answers.md`). (2025-06-16)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-16)
+  - [x] `fraction_wall.py` (for-loop coloured bars, 14 lines) (2025-06-16)
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-16)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-16)
 
 ### Week 3 – Patterns
 
@@ -312,19 +312,19 @@
 
 # Progress Tracking
 
-**Overall Completion**: 15/120 tasks (12.5%)
+**Overall Completion**: 26/120 tasks (21.7%)
 
 **By Priority**:
 
-- P1 Tasks: 10/35 completed (28.6%)
-- P2 Tasks: 5/55 completed (9.1%)
+- P1 Tasks: 19/35 completed (54.3%)
+- P2 Tasks: 7/55 completed (12.7%)
 - P3 Tasks: 0/30 completed (0%)
 
 **By Category**:
 
 - ✅ Repository Setup: 100% complete
 - ✅ Style Guide: 100% complete (basic version)
-- 🟡 Week Content: 12.5% complete (1/8 weeks)
+- 🟡 Week Content: 25% complete (2/8 weeks)
 - ⏳ Teacher Resources: 0% complete
 - ⏳ Everything else: 0% complete
 
@@ -337,4 +337,4 @@
 
 -----
 
-*Last updated: 2025-06-15*
+*Last updated: 2025-06-16*
