@@ -4,9 +4,10 @@
 
 **A printable, device-light summer math program for rising 5th graders that blends core paper-based math fluency with fun, beginner-friendly Python activities in Google Colab.**
 
-[![Content Status](https://img.shields.io/badge/Content-45%25%20Complete-orange)](./TODO.md)
+[![Content Status](https://img.shields.io/badge/Content-98%25%20Complete-brightgreen)](./TODO.md)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Weeks Available](https://img.shields.io/badge/Weeks-8%2F8%20Available-brightgreen)](#📚-weekly-curriculum)
+[![Target Age](https://img.shields.io/badge/Ages-9--11%20(Rising%205th%20Grade)-blue)](#🎯-target-audience)
 
 ---
 
@@ -35,14 +36,14 @@ Designed to bridge traditional math fluency with modern computational thinking, 
 
 | Week | Topic | Math Focus | Python Activity | Status |
 |------|-------|-------------|-----------------|--------|
-| **1** | 🔢 Number Sense | Place value, multiplication, division | `tower_blocks.ipynb` | ✅ **Complete** |
-| **2** | 🍕 Fractions | Equivalence, visual models, operations | `fraction_wall.ipynb` | ✅ **Complete** |
-| **3** | 🔄 Patterns | Sequences, rules, Conway's Life | `life_sim.ipynb` | ✅ **Complete** |
-| **4** | 📐 Geometry | Shapes, area, perimeter | `pixel_flag.ipynb` | ✅ **Complete** |
-| **5** | 📊 Data & Chance | Graphs, mean, probability | `coin_flips.ipynb` | ✅ **Complete** |
-| **6** | 💰 Decimals & Money | Place value, operations, budgeting | `make_change.ipynb` | ✅ **Complete** |
-| **7** | 🔤 Variables | Expressions, equations, geometry | `cube_maker.ipynb` | ✅ **Complete** |
-| **8** | 🧩 Strategy | Problem-solving, logic, Nim game | `nim_bot.ipynb` | ✅ **Complete** |
+| **1** | 🔢 Number Sense | Place value, multiplication, division | `tower_blocks.ipynb` | ✅ **Enhanced** |
+| **2** | 🍕 Fractions | Equivalence, visual models, operations | `fraction_wall.ipynb` | ✅ **Enhanced** |
+| **3** | 🔄 Patterns | Sequences, rules, Conway's Life | `life_sim.ipynb` | ✅ **Enhanced** |
+| **4** | 📐 Geometry | Shapes, area, perimeter | `pixel_flag.ipynb` | ✅ **Enhanced** |
+| **5** | 📊 Data & Chance | Graphs, mean, probability | `coin_flips.ipynb` | ✅ **Enhanced** |
+| **6** | 💰 Decimals & Money | Place value, operations, budgeting | `make_change.ipynb` | ✅ **Enhanced** |
+| **7** | 🔤 Variables | Expressions, equations, geometry | `cube_maker.ipynb` | ✅ **Enhanced** |
+| **8** | 🧩 Strategy | Problem-solving, logic, Nim game | `nim_bot.ipynb` | ✅ **Enhanced** |
 
 ### Learning Progression
 
@@ -54,27 +55,235 @@ The curriculum follows a carefully designed progression:
 
 ---
 
-## 🚀 Quick Start Guide
+## 🚀 Getting Started
 
-### For Parents/Teachers
+### 🎯 Target Audience
+**Perfect for rising 5th graders (ages 9-11)** who want to:
+- Review and strengthen foundational math skills
+- Prevent summer learning loss
+- Get a gentle introduction to programming concepts
+- Build confidence for the upcoming school year
 
-1. **📁 Browse a Week** - Start with any week from [Week 1](./weeks/week1_number_sense/) through [Week 8](./weeks/week8_strategy/)
-2. **📄 Print Worksheets** - Each `*_Sheet.md` file can be printed as-is or converted to PDF
-3. **📖 Use Answer Keys** - Each `*_Answers.md` includes solutions and teaching tips
-4. **💻 Try Colab (Optional)** - Open notebooks from [`colab_tasks/`](./colab_tasks/) in Google Colab
+### ⚡ Quick Start (5 Minutes)
+
+**Option 1: Paper-Only (Recommended for First Time)**
+1. Go to [`weeks/week1_number_sense/en/`](./weeks/week1_number_sense/en/)
+2. Print `W1_Day1_Sheet.md` (or view in browser)
+3. Have your student complete the worksheet
+4. Check answers with `W1_Day1_Answers.md`
+
+**Option 2: With Coding**
+1. Complete a worksheet first (see Option 1)
+2. Open [Google Colab](https://colab.research.google.com)
+3. Upload `W1_Day3_Colab.ipynb` or open from GitHub
+4. Follow the "Run me!" instructions
+
+### 📋 What You Need
+
+#### Essential (Paper Worksheets)
+- ✅ **Printer** (black & white is fine)
+- ✅ **Pencil/pen** for student
+- ✅ **Adult helper** for first few sessions
+- ✅ **15-45 minutes per day**
+
+#### Optional (Programming Activities)  
+- ✅ **Computer/tablet with internet**
+- ✅ **Free Google account**
+- ✅ **Web browser** (Chrome, Firefox, Safari, Edge)
+- ❌ **No software installation needed**
+
+### 🗓️ Recommended Schedule
+
+**8-Week Program (40 sessions total)**
+- **Duration**: 15-45 minutes per session
+- **Frequency**: 5 days per week (Monday-Friday)
+- **Break days**: Weekends off, or adapt to your schedule
+- **Flexibility**: Can stretch to 12-16 weeks at a slower pace
+
+**Sample Daily Flow:**
+1. **5 min**: Review previous day or warm-up
+2. **15-30 min**: Complete daily worksheet
+3. **5 min**: Check answers and discuss
+4. **10-15 min**: Optional coding activity (once per week)
+5. **5 min**: Exit ticket reflection
+
+---
+
+## 📖 How to Use This Program
+
+### For Parents and Teachers
+
+#### Getting Started Checklist
+- [ ] Read the [Program Guide](./teacher_resources/Program_Guide.md) for pedagogy overview
+- [ ] Download the [Google Colab Quick Start](./teacher_resources/Google_Colab_Quick_Start.md) guide
+- [ ] Print the [Progress Tracker](./teacher_resources/Progress_Tracker.md) for motivation
+- [ ] Take the [Pre-Assessment](./teacher_resources/Master_Quiz_PreTest.md) to gauge starting level
+
+#### Week-by-Week Workflow
+1. **Start of Week**: Print all 5 worksheets for the week
+2. **Daily**: Supervise worksheet completion, check answers together
+3. **Coding Day**: Help with Google Colab setup if doing programming
+4. **End of Week**: Complete reflection questions, update progress tracker
+5. **Struggling?** Use the teaching tips in answer keys for support strategies
+
+#### Supporting Your Student
+- **Focus on effort, not just correct answers**
+- **Use the worked examples** to model problem-solving
+- **Encourage estimation** before calculating exact answers
+- **Make real-world connections** when possible
+- **Celebrate progress** at milestone markers
 
 ### For Students
 
-1. **📝 Start with Paper** - Complete the daily worksheet first
-2. **🤔 Check Your Work** - Review answers with a parent/teacher
-3. **💻 Code Time** - If available, try the Python notebook for that week
-4. **🎯 Reflect** - Complete the exit ticket and discuss what you learned
+#### Daily Routine
+1. **📖 Read the worked example** - Don't skip this step!
+2. **🧮 Try guided practice** - Work through problems step-by-step
+3. **🎯 Complete independent practice** - Show what you've learned
+4. **💻 Optional coding** - Try the Python activity if available
+5. **🎭 Exit ticket** - Reflect on what you learned
 
-### System Requirements
+#### Tips for Success
+- **Work at your own pace** - it's not a race!
+- **Ask for help** when stuck - learning is a team effort
+- **Make mistakes** - they're part of learning
+- **Connect to real life** - math is everywhere!
+- **Have fun** - celebrate your progress along the way
 
-- **For Worksheets**: Any printer (black & white fine)
-- **For Coding**: Internet browser + free Google account
-- **No Installation**: Everything runs in the browser via Google Colab
+### For Educators
+
+#### Classroom Implementation
+- **Summer school programs**: Use as core curriculum
+- **Regular school year**: Supplement with weekly enrichment
+- **Homeschool families**: Complete program for grade 4-5 review
+- **Learning support**: Adapt pacing for individual needs
+
+#### Assessment Integration
+- Use pre/post assessments for growth measurement
+- Portfolio of completed worksheets shows progress
+- Python projects demonstrate computational thinking
+- Exit tickets provide formative assessment data
+
+---
+
+## 🛠️ Technical Setup
+
+### Paper Worksheets (No Technical Skills Required)
+
+**Printing Options:**
+- **Direct from browser**: Open `.md` files and print (most browsers handle this well)
+- **PDF conversion**: Use pandoc or online converters for better formatting
+- **Batch printing**: Our build scripts can generate all PDFs at once
+
+**Paper Setup:**
+- **A4 or Letter size** paper works fine
+- **Black and white printing** is perfectly acceptable
+- **Double-sided printing** saves paper (optional)
+
+### Google Colab Setup (Step-by-Step)
+
+#### First-Time Setup (5 minutes)
+1. **Create Google Account** (if needed)
+   - Go to [accounts.google.com](https://accounts.google.com)
+   - Choose "Create account" → "For personal use"
+   - Follow setup wizard
+
+2. **Access Google Colab**
+   - Go to [colab.research.google.com](https://colab.research.google.com)
+   - Sign in with Google account
+   - You'll see the Colab welcome screen
+
+3. **Open Your First Notebook**
+   - Click "GitHub" tab in file browser
+   - Enter repository: `nibzard/AlgoPirates`
+   - Navigate to `colab_tasks/tower_blocks.ipynb`
+   - Click to open
+
+#### Running Code (Every Time)
+1. **Read the comments** at the top of the notebook
+2. **Click the ▶️ play button** next to code cells
+3. **Wait for output** to appear below each cell
+4. **Follow TODO instructions** to complete activities
+5. **Experiment** with different values!
+
+#### Troubleshooting Common Issues
+- **"Runtime not connected"**: Click "Connect" in top-right corner
+- **"File not found"**: Make sure you're in the right GitHub repo
+- **"Permission denied"**: Sign in to your Google account
+- **"Code won't run"**: Try Runtime → Restart Runtime from menu
+
+### Multilingual Support
+
+**Available Languages:**
+- 🇺🇸 **English** (complete)
+- 🇭🇷 **Croatian** (complete) - First international version
+
+**Language Structure:**
+```
+weeks/week1_number_sense/
+├── en/          # English version
+│   ├── W1_Day1_Sheet.md
+│   └── W1_Day1_Answers.md
+└── hr/          # Croatian version
+    ├── W1_Day1_Sheet.md
+    └── W1_Day1_Answers.md
+```
+
+---
+
+## 🔧 Advanced Usage
+
+### For Developers
+
+#### Repository Structure
+```bash
+git clone https://github.com/nibzard/AlgoPirates.git
+cd AlgoPirates
+
+# Core content
+./weeks/              # 8 weeks × 2 languages × 5 days each
+./colab_tasks/        # All Python notebooks
+./teacher_resources/  # Guides, assessments, trackers
+
+# Development
+./scripts/           # Build tools (PDF generation)
+./style_guide/       # Content creation standards
+.github/workflows/   # Automated testing
+```
+
+#### Building PDFs
+```bash
+# Generate all PDFs for both languages
+bash scripts/build_pdfs.sh
+
+# English only
+bash scripts/build_pdfs.sh en
+
+# Croatian only  
+bash scripts/build_pdfs.sh hr
+```
+
+#### Contributing New Content
+1. Follow [style guide](./style_guide/) conventions
+2. Use worksheet templates for consistency
+3. Test all Python code thoroughly
+4. Include comprehensive answer keys
+5. Consider translation needs
+
+### For Translators
+
+#### Adding New Languages
+1. Create language subdirectories: `weeks/week*/xx/`
+2. Translate all `.md` files maintaining mathematical content
+3. Adapt Python notebooks with translated comments
+4. Update build scripts for new language code
+5. Test all content thoroughly
+
+#### Translation Guidelines
+- **Mathematical symbols**: Keep universal (×, ÷, =, etc.)
+- **Currency**: Adapt to local context when helpful
+- **Cultural references**: Modify for local relevance  
+- **Technical terms**: Use age-appropriate vocabulary
+- **Python code**: Translate comments, keep code universal
 
 ---
 
@@ -116,11 +325,12 @@ Content creation guidelines:
 - `Python_Style_Guide.md` - Coding conventions for notebooks
 - `Naming_Conventions.md` - File and variable naming rules
 
-### 📂 `teacher_resources/` *(Coming Soon)*
-- Program implementation guide
-- Google Colab quick start tutorial
-- Progress tracking charts
-- Assessment materials
+### 📂 `teacher_resources/`
+- `Program_Guide.md` - Complete implementation guide for educators
+- `Google_Colab_Quick_Start.md` - Step-by-step parent/teacher Colab guide
+- `Progress_Tracker.md` - 40-day visual progress chart with rewards
+- `Master_Quiz_PreTest.md` - Comprehensive pre-assessment (25 questions)
+- `Master_Quiz_PostTest.md` - Growth measurement post-assessment
 
 ---
 
@@ -151,13 +361,15 @@ No technical background required for adults. Code notebooks are optional—but e
 
 ### Current Status:
 - **✅ All Content Created** (Weeks 1-8): All worksheets, answer keys, and Colab notebooks
-- **✅ Croatian Translation** (100%): All 88 files translated across all weeks
+- **✅ Croatian Translation** (100%): All 88 files translated across all weeks  
+- **✅ Teacher Resources** (100%): Complete implementation guides, assessments, and progress tracking
 - **✅ Answer Key Enhancement** (100%): Comprehensive teaching support including:
   - Detailed teaching tips after each solution
   - Sample exit ticket responses showing student thinking
   - Parent guidance with common mistakes and real-world connections
   - Troubleshooting sections for common learning difficulties
 - **✅ Python Introduction Materials** (100%): 16 A4 concept pages (English + Croatian)
+- **✅ Quality Assurance** (100%): Technical and educational content review completed
 
 ---
 
@@ -165,10 +377,10 @@ No technical background required for adults. Code notebooks are optional—but e
 
 We welcome contributions! Current priorities:
 
-### High Priority
-- **Teacher Resources** - Complete progress tracker and assessment materials
-- **Colab Notebook Standardization** - Ensure consistent structure across all notebooks
-- **Quality Assurance** - Technical and educational review
+### High Priority  
+- **GitHub Pages Setup** - Create web-based browsing experience
+- **Advanced Differentiation** - Support materials for diverse learners
+- **Quality Assurance** - Ongoing content review and improvement
 
 ### Medium Priority  
 - **Translation** - Spanish, French, or other languages beyond Croatian

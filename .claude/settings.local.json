@@ -15,7 +15,9 @@
       "Bash(find:*)",
       "Bash(rg:*)",
       "Bash(grep:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(fc-list:*)",
+      "Bash(fc-match:*)"
     ],
     "deny": []
   }
