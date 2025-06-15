@@ -26,16 +26,17 @@ This folder contains 8 subfolders, one for each week:
 
 weeks/
 ├── week1_number_sense/
-│   ├── W1_Day1_Sheet.pdf
-│   ├── W1_Day1_Answers.pdf
+│   ├── W1_Day1_Sheet.md
+│   ├── W1_Day1_Answers.md
 │   ├── W1_Day3_Colab.ipynb
 │   └── …
 ├── week2_fractions/
 │   ├── …
 …
 
-- **`Sheet.pdf`** – The printable A4 worksheet (1 page/day).
-- **`Answers.pdf`** – Parent-friendly answer key with tips.
+- **`Sheet.md`** – The printable A4 worksheet (1 page/day).
+- **`Answers.md`** – Parent-friendly answer key with tips.
+- Markdown files can be converted to PDF using build scripts.
 - **`.ipynb` files** – Optional Python notebooks to open in Google Colab.
 
 ---
