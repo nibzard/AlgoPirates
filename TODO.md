@@ -82,17 +82,17 @@
 - Describe pattern rules using mathematical language
 - Apply pattern recognition to solve problems
 - Create visual patterns with geometric shapes
-- [ ] [P1] Produce five printable math worksheets (`Sheet.md`).
-  - [ ] Day 1: Number sequences and skip counting
-  - [ ] Day 2: Growing patterns with shapes
-  - [ ] Day 3: Pattern rules and predictions
-  - [ ] Day 4: Conway’s Game of Life introduction
-  - [ ] Day 5: Create your own pattern challenges
-- [ ] [P1] Provide matching answer keys (`Answers.md`).
-- [ ] [P1] Create optional Colab notebook(s) with TODO comments.
-  - [ ] `life_sim.py` (nested lists, 18 lines)
-- [ ] [P2] Include paper fallback task on reverse side of each worksheet.
-- [ ] [P2] Write a short `README.md` explaining the week’s focus.
+- [x] [P1] Produce five printable math worksheets (`Sheet.md`). (2025-06-16)
+  - [x] Day 1: Number sequences and skip counting
+  - [x] Day 2: Growing patterns with shapes
+  - [x] Day 3: Pattern rules and predictions
+  - [x] Day 4: Conway’s Game of Life introduction
+  - [x] Day 5: Create your own pattern challenges
+- [x] [P1] Provide matching answer keys (`Answers.md`). (2025-06-16)
+- [x] [P1] Create optional Colab notebook(s) with TODO comments. (2025-06-16)
+  - [x] `life_sim.py` (nested lists, 18 lines)
+- [x] [P2] Include paper fallback task on reverse side of each worksheet. (2025-06-16)
+- [x] [P2] Write a short `README.md` explaining the week’s focus. (2025-06-16)
 
 ### Week 4 – Geometry
 
