@@ -14,7 +14,7 @@ for lang in $LANGUAGES; do
     echo "Processing language: $lang"
     
     find weeks -path "*/en/*.md" -o -path "*/hr/*.md" | grep "/$lang/" \
-        | grep -E '(W.*_Day.*_Sheet\.md|W.*_Day.*_Answers\.md)$' \
+        | grep -E '(W.*_Day.*_Sheet\.md|W.*_Day.*_Answers\.md|W.*_Python.*\.md)$' \
         | while IFS= read -r md_file; do
         
         pdf_file="${md_file%.md}.pdf"
